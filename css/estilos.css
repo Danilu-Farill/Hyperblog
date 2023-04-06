@@ -16,7 +16,8 @@ body {
 
 p {
     color: #4206b3;
-    font-family: cursive;
+    font-family: castellar;
+    text-align: justify;
 }
 #container {
     width: 70%;
