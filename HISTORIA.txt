@@ -54,6 +54,13 @@ APARECE UN a VERDE QUE INDICA QUE ACABA DE SER AGREGADO
 
 master 1
 
+master 2
+
 PRUEBAS CON GIT REBASE: PARA PEGAR A LA RAMA PRINCIPAL Y NO SE VEA UNA RAMA EXTRA.
+en la rama secuandaria colocar a cual la voy a unir:
+git rebase master: lego me voy a master y hago cambios
+git checkout master
+luego guardar los cambios:
+git commit
 
 
